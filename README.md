@@ -9,6 +9,13 @@ per line, empty line per page break in the source PDF. The ordering is
 preserved. Should a new edition of the blacklist delete an item from the list,
 it will get replaced by empty line.
 
+## Similar projects
+
+  - [https://blacklist.salamek.cz](https://blacklist.salamek.cz) ([GitHub
+    source](https://github.com/Salamek/blacklist)) – automatic crawler with
+    machine-parsed blacklist, JSON API and much more.
+
+
 ## Disclaimer
 
 This is a community-driven effort. Pull requests are welcome. No guarantee is
