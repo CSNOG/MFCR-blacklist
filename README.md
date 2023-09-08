@@ -1,4 +1,4 @@
-# IMPORTANT: This project lacks maintenance, don't rely on it
+# ARCHIVED: This project lacks maintenance, don't rely on it
 
 This repository was started back in 2018 when there was only one blocklist
 published as a PDF file containing two or three pages. It has always been
@@ -15,7 +15,7 @@ willing to maintain this repository anymore. If you rely on the blocklist
 published here, please either volunteer yourself in continuing of the
 maintenance of this repository, or look for similar projects below.
 
-**Unless a new maintainer is found, this repository is going to be archived as of 2023-09-01.**
+**Since no new maintainer is found, this repository has been archived in September 2023.**
 
 # Community operated machine-readable domain-name blocklist
 
